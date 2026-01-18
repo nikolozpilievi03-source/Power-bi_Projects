@@ -58,3 +58,13 @@ Calculated correlation between points scored and game outcomes.
 
 Created to demonstrate foundational data analytics skills for a Junior
 Data Analyst position.
+
+
+## How to Run
+
+1. Make sure Python is installed
+2. Install NumPy if not already installed:
+   pip install numpy
+3. Run the script:
+   python nba_analysis.py
+
