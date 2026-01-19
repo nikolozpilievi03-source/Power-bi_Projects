@@ -14,7 +14,7 @@ This repository contains data analytics projects demonstrating skills in:
 - Focused on clean data structuring and analytical reasoning
 
 ### Power BI Projects
-- Interactive dashboards and reports (in progress)
+- Interactive dashboards and reports
 
 ## Purpose
 This repository is part of my preparation for a Junior Data Analyst role.
